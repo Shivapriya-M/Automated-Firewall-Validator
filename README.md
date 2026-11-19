@@ -1,3 +1,6 @@
+url:https://automated-firewall-validator.vercel.app/login
+id:admin@firewall.local
+pass:admin123
 # Automated Firewall Rule Validation System
 
 An educational firewall-management simulator that combines **Computer Networks**, **Full Stack Web Development** and **Finite Automata & Formal Language Theory**.
